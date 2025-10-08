@@ -6,7 +6,7 @@
 
 This data jobs salary dashboard was created to help job seekers explore salaries for their desired positions and ensure they are being fairly compensated.
 
-The data comes from an Excel course I completed, which provided me with a strong foundation in analyzing data using this powerful tool. The dataset includes detailed information on job titles, salaries, locations, and essential skills, all of which are presented here.
+The data comes from an Excel course [(created by:Luke Barousse)](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=35268s) I completed, which provided me with a strong foundation in analyzing data using this powerful tool. The dataset includes detailed information on job titles, salaries, locations, and essential skills, all of which are presented here.
 
 ### Dashboard File
 My final dashboard is in [Project_1_Dashboard.xlsx](Project_1_Dashboardxlsx).
@@ -110,5 +110,5 @@ IF(
 
 ## Conclusion
 
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from [@Luke Barousse's](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=35268s) Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from [Luke Barousse's](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=35268s) Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
 
