@@ -3,7 +3,8 @@
 
 ## Introduction
 
-This second project was created to help job seekers better understand the most valuable skills and roles in the data science market. It aims to identify which skills top employers are looking for and how these skills influence salary levels.
+This second project was created to help job seekers better understand the most valuable skills and roles in the data science market. It aims to identify which skills top employers are looking for and how these skills influence salary levels.   
+[Project_2_Analysis.xlsx](Project_2_Analysis.xlsx)
 
 ### Questions to Analyze
 
@@ -71,14 +72,13 @@ It includes detailed information on:
 
 #### 💡 Insights
 
-- 📈 There is a positive correlation between the number of skills requested in job postings and the median salary, particularly in roles like Senior Data Engineer and Data Scientist.
-- 💼 Roles that require fewer skills, like Business Analyst, tend to offer lower salaries, suggesting that more specialized skill sets command higher market value.
-
+- 📈 There is a clear link between the number of skills required in job postings and the median salary. Jobs like Senior Data Engineer and Data Scientist, which ask for more skills, tend to offer higher pay.
+- 💼 Roles that need fewer skills, such as Business Analyst, usually have lower salaries, showing that specialized skills are more valuable in the job market.
     ![2_Project_Analysis_Chart1.png](/0_Resources/Images/2_Project_Analysis_Chart1.png)
 
 #### 🤔 So What
 
-- This trend emphasizes the value of acquiring multiple relevant skills, particularly for individuals aiming for higher-paying roles.
+- This trend shows that learning multiple relevant skills can help people reach higher-paying jobs.
 
 ## 2️⃣ What’s the salary for data jobs in different regions?
 
@@ -107,15 +107,14 @@ It includes detailed information on:
 
 #### 💡 Insights
 
-- 💼 Job roles like Senior Data Engineer and Data Scientist command higher median salaries both in the US and internationally, showcasing the global demand for high-level data expertise.
-- 💰 The salary disparity between US and Non-US roles is particularly notable in high-tech jobs, which might be influenced by the concentration of tech industries in the US.
+- 💼 Job roles such as Senior Data Engineer and Data Scientist offer higher median salaries both in the US and abroad, showing the global demand for advanced data skills.
+- 💰 The salary gap between US and non-US roles is especially noticeable in tech positions, likely due to the large number of tech companies based in the US.
 
     ![2_Project_Analysis_Chart2.png](/0_Resources/Images/2_Project_Analysis_Chart2.png)
 
 #### **🤔 So What**
 
-- These salary insights are important for planning and salary negotiations, helping professionals and companies align their offers with market standards while considering geographical variations.
-
+- These salary insights are useful for career planning and negotiations, helping both professionals and employers align their expectations with market standards and regional differences.
 ## 3️⃣ What are the top skills of data professionals?
 
 ### 🔧 Skill: Power Pivot
@@ -176,6 +175,5 @@ It includes detailed information on:
 
 ## Conclusion
 
-As a data enthusiast and former job seeker, I embarked on this Excel-based project to uncover valuable insights about the data science job market. Using a dataset I've curated from real-world job postings, I analyzed job titles, salaries, locations, and essential skills. By leveraging Excel features like Power Query, PivotTables, DAX, and charts, I discovered key correlations between multiple skills and higher salaries, particularly in Python, SQL, and cloud technologies. 
+In this Project I use Excel to uncover valuable insights about the data science job market. I used a dataset from real job postings to analyze job titles, salaries, locations, and key skills. Using Excel tools like Power Query, PivotTables, DAX, and charts, I found that jobs requiring multiple skills—especially in Python, SQL, and cloud technologies—tend to pay more.
 
-I hope this project serves as a practical guide for data professionals and provides an overview of the skills needed for higher-paying roles.
