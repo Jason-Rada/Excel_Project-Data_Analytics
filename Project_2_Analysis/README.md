@@ -49,13 +49,10 @@ It includes detailed information on:
 #### 🔄 Transform
 
 - Then, I transformed each query by changing column types, removing unnecessary columns, cleaning text to eliminate specific words, and trimming excess whitespace.
-    - 📊 data_jobs_all
+    - 📊 data_jobs_all & 🛠️ data_job_skills
 
-        ![2_Project_Analysis_Screenshot1.png](/0_Resources/Images/2_Project_Analysis_Screenshot1.png)
+         <img width="244" height="328" alt="2_Project_Analysis_Screenshot1" src="https://github.com/user-attachments/assets/f2db319f-2ced-4d13-bef9-ca074d6f3c91" /> <img width="244" height="328" alt="2_Project_Analysis_Screenshot2" src="https://github.com/user-attachments/assets/4c51f597-3b22-433f-8c61-708bf6fb721d" />
 
-    - 🛠️ data_job_skills
-
-        ![2_Project_Analysis_Screenshot2.png](/0_Resources/Images/2_Project_Analysis_Screenshot2.png)
 
 #### 🔗 Load
 
